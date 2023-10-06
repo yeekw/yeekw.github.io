@@ -5,10 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Database"
-      href: database.html
+    - text: "Fictions"
+      href: fictions.html
+    - text: "Films"
+      href: films.html
+    - text: "Collaboration"
+      href: howToContribute.html
 output:
   html_document:
     theme: readable

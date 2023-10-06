@@ -1,5 +1,5 @@
 ---
-title: "How to contribute"
+title: "Collaborate"
 ---
 
 Instructions for contributing to the database.
