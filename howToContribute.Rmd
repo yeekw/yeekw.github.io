@@ -1,0 +1,13 @@
+---
+title: "How to contribute"
+---
+
+Instructions for contributing to the database.
+
+Make a GitHub account
+
+Add as collaborator to the repository
+
+Clone the repository 
+
+

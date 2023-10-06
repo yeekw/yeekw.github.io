@@ -1,0 +1,14 @@
+name: "mixedracelit"
+output_dir: "."
+navbar:
+  title: "Mixed Race Lit"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Database"
+      href: database.html
+output:
+  html_document:
+    theme: readable
