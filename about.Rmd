@@ -2,21 +2,17 @@
 title: "About This Website"
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
 
-#For general users
-
-"Mixed Race Lit" is an online database of Chinese-language fictions and films that have mixed-race characters and about multiraciality. The aim of this database is to engage community members and educators by providing directory of textual resources. This is a space for supporting ethnic minorities and under-represented people groups, as well as raising awareness in the monoracial general public. 
+</style>
 
 
-##For literary scholars and other researchers
-
-"Mixed Race Lit" provides academic and pedagogical support, and facilitates research and syllabus development. 
-
-
-### About the developer
+# About the developer
 
 "Mixed Race Lit" is developed by Vanessa Wong, PhD candidate at East Asian Studies Department at Univeristy of California, Irvine. 
-
-
-#### Collaborate with us!
-The website is currently at a nascent stage and only features Chinese-language fictions and films. However, we hope to include other languages in future. If you would like to contribute to

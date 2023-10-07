@@ -13,7 +13,7 @@
 
 <title>Collaborate</title>
 
-<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
@@ -243,7 +243,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
 </li>
 <li>
   <a href="fictions.html">Fictions</a>
@@ -271,10 +271,46 @@ $(document).ready(function () {
 </div>
 
 
-<p>Instructions for contributing to the database.</p>
-<p>Make a GitHub account</p>
-<p>Add as collaborator to the repository</p>
-<p>Clone the repository</p>
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+
+</style>
+<div id="instructions-for-collaborating" class="section level1">
+<h1>Instructions for collaborating</h1>
+<div id="option-a" class="section level2">
+<h2>Option A:</h2>
+<p>Submit to the database using <a
+href="https://forms.gle/Kc2bJCt6bTWLYGvP9">this form</a></p>
+<p>Please also include your contact information so that we can credit
+your contribution!</p>
+</div>
+<div id="option-b" class="section level2">
+<h2>Option B:</h2>
+<p>Pre-requisites:</p>
+<ul>
+<li><p>GitHub Account and GitHub Desktop</p></li>
+<li><p>RStudio (and R)</p></li>
+</ul>
+<p>Once you are added as a collaborator to the GitHub repo, you’ll need
+to:</p>
+<ol style="list-style-type: decimal">
+<li><p>Clone the repository (using GitHub Desktop) or pull any new
+updates</p></li>
+<li><p>Open up the <code>Mixed Race Lit.Rproj</code></p></li>
+<li><p>Add to the <code>films.Rmd</code> and
+<code>fictions.Rmd</code></p></li>
+<li><p>Remember to <code>knit</code> the any of the <code>.rmd</code>
+files that were edited</p></li>
+<li><p>Push the changes using GitHub Desktop!</p></li>
+</ol>
+<p>Any changes may take a few minutes before the website is updated.</p>
+</div>
+</div>
 
 
 

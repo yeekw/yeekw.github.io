@@ -2,12 +2,44 @@
 title: "Collaborate"
 ---
 
-Instructions for contributing to the database.
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
 
-Make a GitHub account
+</style>
 
-Add as collaborator to the repository
+# Instructions for collaborating
 
-Clone the repository 
+## Option A:
+
+Submit to the database using [this form](https://forms.gle/Kc2bJCt6bTWLYGvP9)
+
+Please also include your contact information so that we can credit your contribution!
+
+## Option B:
+
+Pre-requisites:
+
+- GitHub Account and GitHub Desktop
+
+- RStudio (and R)
+
+Once you are added as a collaborator to the GitHub repo, you'll need to: 
+
+1. Clone the repository (using GitHub Desktop) or pull any new updates
+
+2. Open up the `Mixed Race Lit.Rproj`
+
+3. Add to the `films.Rmd` and `fictions.Rmd`
+
+4. Remember to `knit` the any of the `.rmd` files that were edited
+
+5. Push the changes using GitHub Desktop!
+
+Any changes may take a few minutes before the website is updated.
 
 

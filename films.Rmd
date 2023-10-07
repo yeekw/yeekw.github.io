@@ -2,4 +2,14 @@
 title: "Literature"
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+
+</style>
+
 More about this website.

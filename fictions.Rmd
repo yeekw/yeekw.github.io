@@ -2,8 +2,20 @@
 title: "Literature"
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
 
-#20th-century fictions (in order of publication)
+</style>
+
+
+# Film
+
+## 20th-century fictions (in order of publication)
 
 
 1. Eileen Chang 張愛玲, "Chained Links" 連環套（1944）
