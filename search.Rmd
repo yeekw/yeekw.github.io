@@ -19,7 +19,7 @@ img {
 library(tidyverse)
 library(DT)
 
-lit.df <- read_csv("database.csv", show_col_type = F)
+lit.df <- read_csv("resources/database.csv", show_col_type = F)
 
 datatable(lit.df, options = list(pageLength = 10))
 ```

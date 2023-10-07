@@ -11,7 +11,7 @@ navbar:
       href: films.html
     - text: "Collaboration"
       href: howToContribute.html
-    - text: "Search"
+    - text: "Database"
       href: search.html
 output:
   html_document:

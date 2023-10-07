@@ -30,15 +30,15 @@ Pre-requisites:
 
 Once you are added as a collaborator to the GitHub repo, you'll need to: 
 
-1. Clone the repository (using GitHub Desktop) or pull any new updates
+1. Clone the repository (using GitHub Desktop) or `pull` any new updates
 
 2. Open up the `Mixed Race Lit.Rproj`
 
-3. Add to the `films.Rmd` and `fictions.Rmd`
+3. Add to the `films.Rmd` and `fictions.Rmd`, or edit whichever `.rmd` files need to be edited
 
-4. Remember to `knit` the any of the `.rmd` files that were edited
+4. **Remember to** `knit` **any of the** `.rmd` **files that were edited**
 
-5. Push the changes using GitHub Desktop!
+5. `Push` the changes using GitHub Desktop!
 
 Any changes may take a few minutes before the website is updated.
 

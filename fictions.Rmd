@@ -10,15 +10,12 @@ img {
   border-radius: 200px 200px 200px 200px;
 }
 
-<<<<<<< Updated upstream
 </style>
 
 
 # Fictions
 
-## 20th-century fictions (in order of publication)
-=======
-#Fictions in Chinese (in order of publication)
+## Fictions in Chinese (in order of publication)
 
 
 1. Eileen Chang 張愛玲, 第一爐香	1943	Chinese-Macanese	Eurasian
@@ -57,8 +54,6 @@ img {
 6. Laha Mebow，哈勇家	2022		
 
 7. 林聖賢，爸爸歐巴馬	2023	Afro-Asian	African American
-
->>>>>>> Stashed changes
 
 
 
