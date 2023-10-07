@@ -21,7 +21,15 @@ library(DT)
 
 lit.df <- read_csv("resources/database.csv", show_col_type = F)
 
-datatable(lit.df, 
+lit.df <- lit.df |> 
+  mutate(Format = factor(Format),
+         Language = factor(Language),
+         `Locus of origin` = factor(`Locus of origin`),
+         Genre = factor(Genre),
+         `Tag 1` = factor(`Tag 1`),
+         `Tag 2` = factor(`Tag 2`))
+
+datatable(lit.df, filter = "top",
           options = list(pageLength = 10),
           rownames = FALSE)
 ```
