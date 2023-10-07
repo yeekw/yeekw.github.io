@@ -2,6 +2,15 @@
 title: "Database"
 ---
 
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+
 ```{r database, echo = F, message=F}
 library(tidyverse)
 library(DT)
