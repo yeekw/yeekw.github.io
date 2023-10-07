@@ -1,19 +1,6 @@
 ---
-title: "Search"
+title: "Database"
 ---
-
-<style type="text/css">
-.title {
-  display: none;
-}
-img {
-  border-radius: 200px 200px 200px 200px;
-}
-
-</style>
-
-
-# Search the database
 
 ```{r database, echo = F, message=F}
 library(tidyverse)

@@ -1,18 +1,14 @@
 name: "mixedracelit"
 output_dir: "."
 navbar:
-  title: "Mixed Race Lit"
+  title: "Mixed Race Literature"
   left:
     - text: "About"
       href: about.html
-    - text: "Fictions"
-      href: fictions.html
-    - text: "Films"
-      href: films.html
-    - text: "Collaboration"
-      href: howToContribute.html
     - text: "Database"
       href: search.html
+    - text: "Collaboration"
+      href: howToContribute.html
 output:
   html_document:
     theme: cosmo
