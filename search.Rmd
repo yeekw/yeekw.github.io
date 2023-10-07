@@ -1,0 +1,26 @@
+---
+title: "Search"
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+img {
+  border-radius: 200px 200px 200px 200px;
+}
+
+</style>
+
+
+# Search the database
+
+```{r database, echo = F, message=F}
+library(tidyverse)
+library(DT)
+
+lit.df <- read_csv("database.csv", show_col_type = F)
+
+datatable(lit.df, options = list(pageLength = 10))
+```
+
