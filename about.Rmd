@@ -15,4 +15,4 @@ img {
 
 # About the developer
 
-"Mixed Race Lit" is developed by Vanessa Wong, PhD candidate at East Asian Studies Department at University of California, Irvine. 
+Hi! My name is Vanessa Wong. I love literature and hope to create this site to share literature about the mixed-race experience. 
