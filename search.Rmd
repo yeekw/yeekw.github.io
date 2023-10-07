@@ -21,6 +21,8 @@ library(DT)
 
 lit.df <- read_csv("resources/database.csv", show_col_type = F)
 
-datatable(lit.df, options = list(pageLength = 10))
+datatable(lit.df, 
+          options = list(pageLength = 10),
+          rownames = FALSE)
 ```
 
