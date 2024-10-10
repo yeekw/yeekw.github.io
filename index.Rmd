@@ -1,5 +1,5 @@
 ---
-title: "Mixed Race Literature Database"
+title: "About"
 ---
 
 <style type="text/css">
@@ -12,26 +12,25 @@ img {
 
 </style>
 
-# Mixed Race Literature Database
+<div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
+
+<img src="img/ykw_img.jpg" alt="photo" width="200" height="200" style="float:center">
+
+# Yee Kwan Wong
+
+`yeekw@uci.edu`
+
+</div>
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
 
-## For general users
+## Academic bio
 
-"Mixed Race Lit" is an online database of Chinese-language fictions and films that have mixed-race characters and about multiraciality. The aim of this database is to engage community members and educators by providing directory of textual resources. This is a space for supporting ethnic minorities and under-represented people groups, as well as raising awareness in the mono-racial general public. 
-
-
-## For literary scholars and other researchers
-
-"Mixed Race Lit" provides academic and pedagogical support, and facilitates research and syllabus development. 
+Vanessa is interested in the social changes reflected in modern fiction from various Chinese communities, the literary connections and distinctions between Hong Kong and China, and the city’s position in the context of greater China. 
 
 
-## About the developer
+### Links:
 
-"Mixed Race Lit" is developed by Vanessa Wong, PhD candidate at East Asian Studies Department at Univeristy of California, Irvine. 
-
-
-## Collaborate with us!
-The website is currently at a nascent stage and only features Chinese-language fictions and films. However, we hope to include other languages in future. If you would like to contribute to
+[Curriculum Vitae](pdf/yeekw_cv.pdf)
 
 </div>

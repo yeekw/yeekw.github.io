@@ -1,14 +1,10 @@
-name: "mixedracelit"
+name: "yeekw"
 output_dir: "."
 navbar:
-  title: "Mixed Race Literature"
+  title: "Yee Kwan Wong"
   left:
     - text: "About"
-      href: about.html
-    - text: "Database"
-      href: search.html
-    - text: "Collaboration"
-      href: howToContribute.html
+      href: index.html
 output:
   html_document:
     theme: cosmo
