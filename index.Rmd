@@ -14,7 +14,7 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
-# Yee Kwan Wong
+# Yee Kwan (Vanessa) Wong
 
 `yeekw@uci.edu`
 
@@ -24,13 +24,17 @@ img {
 
 <div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px; font-size: 18px">
 
-## Academic bio
+## Introduction
 
-Vanessa is interested in the social changes reflected in modern fiction from various Chinese communities, the literary connections and distinctions between Hong Kong and China, and the city’s position in the context of greater China. 
+I am a PhD candidate at the East Asian Studies department at University of California, Irvine. I am originally from Hong Kong, and my research interests include modern and contemporary Chinese literature, cinema, and culture, engaging feminist, gender and sexuality studies, postcolonial studies, and psychoanalytic theory. I am currently working on her dissertation, “Racial Ambiguity in Modern and Contemporary Chinese Literature.”
 
 
 ### Links:
 
 [Curriculum Vitae](pdf/yeekw_cv.pdf)
+
+### Recent publications:
+
+[An Untranslatable Hong Kong story: Wong Bik-wan’s “Nausea”](pdf/untranslatable_nausea.pdf)
 
 </div>
