@@ -22,7 +22,7 @@ img {
 
 </div>
 
-<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px">
+<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px; font-size: 18px">
 
 ## Academic bio
 
