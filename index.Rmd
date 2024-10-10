@@ -1,5 +1,5 @@
 ---
-title: "Yee Kwan Wong"
+title: "Vanessa Yee Kwan Wong"
 ---
 
 <style type="text/css">
@@ -14,7 +14,7 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
-# Yee Kwan (Vanessa) Wong
+# Vanessa Yee Kwan Wong
 
 `yeekw@uci.edu`
 
