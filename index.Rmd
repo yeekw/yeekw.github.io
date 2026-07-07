@@ -1,5 +1,5 @@
 ---
-title: "Vanessa Yee Kwan Wong"
+title: "Yee Kwan Wong"
 ---
 
 <style type="text/css">
@@ -14,9 +14,9 @@ img {
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
 
-# Vanessa Yee Kwan Wong
+# Yee Kwan Wong
 
-`yeekw@uci.edu`
+`yee.kwan.wong@emory.edu`
 
 <img src="img/ykw_img.jpg" alt="photo" width="200" height="200" style="float:center">
 
@@ -26,12 +26,9 @@ img {
 
 ## Introduction
 
-I am a PhD candidate at the East Asian Studies department at University of California, Irvine. I am originally from Hong Kong, and my research interests include modern and contemporary Chinese literature, cinema, and culture, engaging feminist, gender and sexuality studies, post-colonial studies, and psychoanalytic theory. I am currently working on my dissertation, “Racial Ambiguity in Modern and Contemporary Chinese Literature.”
+I am Assistant Professor of Chinese at Oxford College of Emory University. I hold a PhD in East Asian Studies from the University of California, Irvine. I am originally from Hong Kong, and my research interests include modern Chinese literature and film, the intersection between philosophy and literature, and mixed-race studies. Currently, I am preparing my first monograph, tentatively titled "Mixed Messages: Racial and Ethnic Ambiguities in Modern Chinese Literature." 
 
 
-### Links:
-
-[Curriculum Vitae](pdf/yeekw_cv.pdf)
 
 ### Recent publications:
 
@@ -44,5 +41,9 @@ I am a PhD candidate at the East Asian Studies department at University of Calif
 [Wong Bik-wan's "Nausea," in *Cha: an Asian Literary Journal*](https://chajournal.blog/2024/04/14/nausea/)
 
 [Lai Hsiang-yin's "Island," in *Taiwan Literature: English Translation Series, No. 50*](https://press.ntu.edu.tw/en/publish/show.php?act=book&refer=ntup_book01313)
+
+### Media appearance (in Chinese):
+
+[电影36：《破·地狱》(The Last Dance)|死者何以死，生者何以生？](https://www.xiaoyuzhoufm.com/episode/6a333245bc49fb95db0db8d8)
 
 </div>

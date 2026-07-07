@@ -1,7 +1,7 @@
 name: "yeekw"
 output_dir: "."
 navbar:
-  title: "Vanessa Yee Kwan Wong"
+  title: "Yee Kwan Wong"
   left:
     - text: "About"
       href: index.html
