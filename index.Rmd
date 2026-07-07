@@ -11,6 +11,19 @@ img {
 }
 body {
   font-family: "EB Garamond", Georgia, serif;
+  background-color: #f9f5f0;
+}
+
+body a, body a:link, body a:visited {
+  color: #0047ab !important;
+}
+
+h2 {
+  color: #23297a;
+}
+
+h3, h4, h5, h6 {
+  color: #826f57;
 }
 </style>
 
@@ -24,9 +37,8 @@ body {
 
 </div>
 
-<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 2px;padding-right: 20px;padding-left: 20px; font-size: 18px">
+<div class="row" style="text-align: justify; text-justify: inter-word;  padding-top: 20px;padding-right: 20px;padding-left: 20px; font-size: 18px">
 
-## Introduction
 
 I am Assistant Professor of Chinese at Oxford College of Emory University. I hold a PhD in East Asian Studies from the University of California, Irvine. I am originally from Hong Kong, and my research interests include modern Chinese literature and film, the intersection between philosophy and literature, and mixed-race studies. Currently, I am preparing my first monograph, tentatively titled "Mixed Messages: Racial and Ethnic Ambiguities in Modern Chinese Literature." 
 
