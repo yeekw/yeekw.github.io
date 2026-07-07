@@ -9,7 +9,9 @@ title: "Yee Kwan Wong"
 img {
   border-radius: 200px 200px 200px 100px;
 }
-
+body {
+  font-family: "EB Garamond", Georgia, serif;
+}
 </style>
 
 <div class="row" style="text-align: center; padding-top: 50px; padding-right: 20px;padding-left: 20px">
@@ -32,9 +34,9 @@ I am Assistant Professor of Chinese at Oxford College of Emory University. I hol
 
 ### Recent publications:
 
-[An Untranslatable Hong Kong story: Wong Bik-wan’s “Nausea”](https://writingchinesejournal.org/articles/10.22599/wcj.46)
+[An Untranslatable Hong Kong Story: Wong Bik-wan’s “Nausea”](https://writingchinesejournal.org/articles/10.22599/wcj.46)
 
-["The Poetics of Water in Dung Kai-cheung’s (Meta-)Apocalyptic Tale," in the forthcoming edited volume *Entangled Waterscapes in Asia*](https://brill.com/display/title/70628)
+["The Poetics of Water in Dung Kai-cheung’s (Meta-)Apocalyptic Tale," in *Entangled Waterscapes in Asia* (2025), edited by Kwai-Cheung Lo and Hung-chiung Li](https://brill.com/display/title/70628)
 
 ### Translations:
 
